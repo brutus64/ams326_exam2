@@ -14,8 +14,7 @@ def naive(A,B,n):
     
     # print(C)
     return C, flops
-def strassen():
-    pass
+
 def matrix_mult(n):
     #Set up A matrix NxN uniform random -1,1
     A = []
