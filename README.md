@@ -5,7 +5,7 @@ windows:
 python -m venv .venv
 source .venv/bin/Activate.ps1
 pip install -r requirements.txt
-python3 exam2.py
+python exam2.py
 ```
 
 mac:
